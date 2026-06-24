@@ -1,0 +1,11 @@
+{
+  "name": "daikin-app",
+  "version": "1.0.0",
+  "description": "Daikin controller app",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
